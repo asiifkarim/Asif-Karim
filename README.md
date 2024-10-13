@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am passionate about turning data into actionable
 ---
 
 <div align="center">
-    <img alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
+    <img alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000"/>
 </div>
 
 ---
